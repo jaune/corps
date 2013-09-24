@@ -1,0 +1,20 @@
+{
+    "name": "corps",
+    "version": "0.0.0",
+    "description": "physics engine.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "send": "*",
+        "browserify": "*",
+        "less": "*",
+        "gl-matrix": "*",
+        "engine.io": "*",
+        "engine.io-client": "*"
+    },
+    "repository": "",
+    "author": "Jaune",
+    "license": "BSD"
+}
